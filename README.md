@@ -2,7 +2,7 @@
 
 # sportwatch-golf-gps-range-finder
 
-sportwatch-golf-gps-range-finder is a HarmonyOS Lite wearable app that helps golfers locate nearby clubs, view course details, and start a round with distance and hole tracking.
+sportwatch-golf-gps-range-finder is a HarmonyOS SportWatch app that helps golfers locate nearby clubs, view course details, and start a round with distance and hole tracking.
 
 # Preview
 
